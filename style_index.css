@@ -1,0 +1,39 @@
+.text {
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+#obo{
+    font-size: 10;color: aqua;
+}
+.obomne{
+    color: gray; 
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+
+    background-image: url("фон8.png");
+
+    background-size: no-repeat;
+
+    background-position: center;
+
+    background-size: cover;
+
+    height: 1260px;
+
+    width: 1260px;
+
+}
+#menu{
+    width: 1250px;
+    position: fixed;
+    z-index: 100;
+}
+.indexx{
+    position: relative;
+    top: 50px;
+}
+#photo:hover{
+    width: 500px;
+    height: 300px;
+}
